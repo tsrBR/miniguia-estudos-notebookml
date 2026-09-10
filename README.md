@@ -1,11 +1,11 @@
-# 🚀 Código & Autonomia: Aprendendo a Programar na Era da IA
+# Código & Autonomia: Aprendendo a Programar na Era da IA
 
 > Um miniguia para iniciantes em tecnologia que desejam usar Inteligência Artificial (ChatGPT, Copilot, Gemini) para acelerar o aprendizado, sem perder a capacidade de desenvolver sistemas sozinhos.
 
 ![Status: Completo](https://img.shields.io/badge/Status-Completo-success)
 ![Público: Iniciantes](https://img.shields.io/badge/Público-Iniciantes-blue)
 
-## 📌 O Novo Paradigma da Programação
+## O Novo Paradigma da Programação
 
 A entrada da Inteligência Artificial mudou as regras do jogo. A barreira de entrada diminuiu, mas isso criou um novo desafio: **o paradoxo da autonomia**. 
 
@@ -13,7 +13,7 @@ Hoje, a autonomia não significa mais "saber escrever todo o código do zero de 
 
 ---
 
-## ⚠️ Parte 1: O Perigo da "Ilusão de Competência"
+## Parte 1: O Perigo da "Ilusão de Competência"
 
 O maior risco para quem está começando hoje é a **terceirização do raciocínio**. A IA sempre te dá uma resposta, mesmo que você não entenda o problema.
 
@@ -24,7 +24,7 @@ O maior risco para quem está começando hoje é a **terceirização do raciocí
 
 ---
 
-## 🏗️ Parte 2: Os Pilares da Verdadeira Autonomia
+## Parte 2: Os Pilares da Verdadeira Autonomia
 
 Para não se tornar um "copiador de código", você precisa desenvolver três habilidades fundamentais que a IA não pode fazer por você:
 
@@ -34,7 +34,7 @@ Para não se tornar um "copiador de código", você precisa desenvolver três ha
 
 ---
 
-## 🧠 Parte 3: A IA como Professor Particular (Framework Prático)
+## Parte 3: A IA como Professor Particular (Framework Prático)
 
 Nunca use a IA como um oráculo que entrega o trabalho pronto. Use-a como um professor socrático. Aqui estão os melhores **Prompts** para o seu estudo:
 
@@ -49,7 +49,7 @@ Nunca use a IA como um oráculo que entrega o trabalho pronto. Use-a como um pro
 
 ---
 
-## 🛠️ Parte 4: Construindo seu Primeiro Projeto com Autonomia
+## Parte 4: Construindo seu Primeiro Projeto com Autonomia
 
 Vai começar um projeto? Siga este checklist antes de abrir o ChatGPT:
 
@@ -59,9 +59,8 @@ Vai começar um projeto? Siga este checklist antes de abrir o ChatGPT:
 
 ---
 
-## 🎯 Conclusão
+## Conclusão
 
 A IA é a melhor ferramenta já inventada para aprender a programar, desde que você a force a te ensinar em vez de deixá-la fazer o trabalho por você. O mercado não precisa de pessoas que saibam copiar respostas de um bot; precisa de pessoas que saibam **resolver problemas** usando as melhores ferramentas disponíveis.
 
 ---
-*Feito com 💡 e foco no aprendizado real.*
